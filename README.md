@@ -1,0 +1,2 @@
+# GestorApps
+Actualizacion App
